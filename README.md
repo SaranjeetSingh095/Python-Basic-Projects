@@ -1,17 +1,19 @@
-🐍 Python Basic Projects
+# 🐍 Python Basic Projects
 
 Welcome to my **Python Basic Projects** repository!
 
-This repository contains Python projects that I built while learning Python programming. The purpose of these projects is to strengthen my understanding of core programming concepts through hands-on practice.
+This repository contains beginner-friendly Python projects that I built while learning Python programming. Each project helped me practice core programming concepts and improve my problem-solving skills.
 
-## 🚀 What You'll Find
+## 📂 Projects
 
-* Beginner-friendly Python projects
-* Clean and easy-to-understand code
-* Practical implementations of Python concepts
-* Regular updates with new projects
+* 🪨 Rock Paper Scissors Game
+* 🔐 Password Generator
+* 📝 To-Do List
+* 🎤 Voice Calculator
+* 🔢 Number Guessing Game
+* *(More projects will be added as I continue learning.)*
 
-## 🛠️ Skills Covered
+## 🚀 Skills Practiced
 
 * Variables and Data Types
 * User Input & Output
@@ -20,11 +22,11 @@ This repository contains Python projects that I built while learning Python prog
 * Functions
 * File Handling
 * Exception Handling
-* Object-Oriented Programming (OOP)
-* Python Standard Libraries
+* Random Module
+* Basic Python Libraries
 
-## 🎯 Goal
+## 🎯 Purpose
 
-The goal of this repository is to document my Python learning journey, improve my programming skills, and build a strong foundation through real-world projects.
+The goal of this repository is to track my Python learning journey by building practical projects and improving my coding skills step by step.
 
-Thank you for visiting this repository. Feel free to explore the code and share your feedback!
+Feel free to explore the projects and provide suggestions or feedback!
