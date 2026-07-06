@@ -11,7 +11,6 @@ while True:
     Ai = randint(0,2)
 
 
-
     DICT = {
         "rock": 0,
         "paper": 1,
