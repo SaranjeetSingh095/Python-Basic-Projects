@@ -1,5 +1,6 @@
 from random import randint
 
+
 secrate = randint(1,100)
 
 print("Guess Number Between 1-100")
